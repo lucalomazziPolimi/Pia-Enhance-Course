@@ -1,3 +1,7 @@
-# Challenge
+# Workshops
 
-This section contains the team-based challenge material, including the problem statement, rules, starter code, and submission instructions.
+This section contains the hands-on coding sessions.
+
+## Workshops
+- FSI surrogate modeling
+- Meta-design and generative design
