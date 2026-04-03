@@ -7,15 +7,9 @@ This workshop covers environment setup, dataset preprocessing, surrogate model t
 - **FSI_DL_session.ipynb**: main notebook for the workshop  
 - **dataset.pickle**: dataset containing the data used in the FSI neural network workshop  
 
-## Instructions
+## How to proceed
 
-Before opening the notebook in Colab:
+Please follow the detailed step-by-step instructions provided in:  
+👉 **[instructions.md](./instructions.md)**
 
-1. Download the file `dataset.pickle`  
-2. Upload it to your Google Drive (e.g. in your main folder or a dedicated course folder)  
-
-Then:
-- Open the notebook in Colab  
-- Make sure to update the dataset path in the notebook so it correctly points to your Drive location  
-
-Without this step, the notebook will not be able to load the data.
+Make sure to read the instructions before opening the notebook in Colab.
