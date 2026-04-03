@@ -5,7 +5,7 @@ This workshop covers environment setup, dataset preprocessing, surrogate model t
 ## Files in this folder
 
 - **FSI_DL_session.ipynb**: main notebook for the workshop  
-- **dataset.pickle**: dataset containing the data used in the FSI neural network workshop  
+- **dataset.pickle**: dataset used in the workshop (downloaded automatically in the notebook)
 
 ## How to proceed
 
