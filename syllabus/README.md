@@ -142,3 +142,11 @@ By the end of the course, students will have:
 ## Repository structure
 
 The repository is organized as follows:
+- [Syllabus](./syllabus/): course description
+- [Introduction](./00_introduction/): FEM and DL background
+- [Fundamentals](./01_fundamentals/): physics background
+- [Deep Learning](./02_deep_learning/): DL methods
+- [Metamaterials](./03_metamaterials/): Metamaterials
+- [Workshops](./04_workshops/): hands-on sessions
+- [Challenge](./05_challenge/): team project
+- [Experiments](./06_experiments/): testing and validation
