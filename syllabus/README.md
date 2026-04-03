@@ -66,10 +66,10 @@ All coding activities are performed in Google Colab. No local installation is re
 All course days follow the same schedule:
 
 - **Time:** 09:30 am – 06:00 pm  
-- **Lecture slots:** 4 × 1h30 sessions  
+- **Lecture slots:** 4 × 90 minutes  
 - **Breaks:**
   - Morning coffee break: 30 minutes  
-  - Lunch: 13:00 – 14:30  
+  - Lunch: 01:00pm – 02:30pm  
   - Afternoon coffee break: 30 minutes
 
 ---
