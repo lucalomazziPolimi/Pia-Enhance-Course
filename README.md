@@ -1,17 +1,29 @@
 # Deep Learning–Driven Design under Dynamic Loads
 
-> ⚠️ Important – Online Pre-Course Lectures  
+> ## ⚠️ Important – Online Pre-Course Lectures  
 >  
 > The first lectures will take place **online before the course starts**.  
 >  
-> **Dates:** April 7, 9, 14, 16  
-> **Time:** 2:30 pm – 4:00 pm (CET)
-> 
-> **Meeting links:**  
-> - Session 1 - Basics of dynamic behavior of metal materials (Tuesday, April 7): [link]  
-> - Session 2 - Basics of FE simulations (Thursday, April 9): [https://politecnicomilano.webex.com/meet/luca.lomazzi]  
-> - Session 3 - Basics of blast loading (Tuesday, April 14): [link]  
-> - Session 4 - Baiscs of DL (Thursday, April 16): [(https://politecnicomilano.webex.com/meet/luca.lomazzi)]  
+> **Schedule and links:**  
+> - **Session 1 – Basics of dynamic behavior of metal materials**  
+>   Tuesday, April 7  
+>   2:30pm – 4:00pm (CET)  
+>   Link: [TBD]  
+>  
+> - **Session 2 – Basics of FE simulations**  
+>   Thursday, April 9  
+>   8:30am – 10:00am (CET)   
+>   Link: [https://politecnicomilano.webex.com/meet/luca.lomazzi]  
+>  
+> - **Session 3 – Basics of blast loading**  
+>   Tuesday, April 14  
+>   2:30pm – 4:00pm (CET)   
+>   Link: [TBD]  
+>  
+> - **Session 4 – Basics of Deep Learning**  
+>   Thursday, April 16  
+>   14:30 – 16:00 (CET)  
+>   Link: [https://politecnicomilano.webex.com/meet/luca.lomazzi] 
 >  
 > Please make sure to attend these sessions, as they introduce key concepts used during the course.
 
