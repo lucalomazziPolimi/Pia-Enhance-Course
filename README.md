@@ -4,6 +4,8 @@ Course materials for *Deep Learning–Driven Design under Dynamic Loads*.
 
 This repository contains lecture slides, notes, Colab notebooks, workshop material, and challenge resources for the course.
 
+👉 For full information about the course (schedule, structure, requirements), please refer to the [syllabus](./syllabus/).
+
 ## How to use this repository
 
 You do **not** need Git.
