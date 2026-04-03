@@ -24,6 +24,9 @@ It combines physics-based modeling (structural dynamics and fluid–structure in
 
 The course is highly application-oriented and includes hands-on workshops, a team-based design challenge, and experimental validation.
 
+This course follows a progression:
+**Physics → Deep Learning → Workshops → Challenge → Experiments**
+
 ## Learning Objectives
 
 By the end of the course, students will be able to:
@@ -134,4 +137,8 @@ By the end of the course, students will have:
 - Implemented deep learning models for engineering applications  
 - Designed and evaluated structures under dynamic loading  
 - Participated in a full data-driven design workflow  
-- Gained hands-on experience connecting simulation, AI, and experiments  
+- Gained hands-on experience connecting simulation, AI, and experiments
+
+## Repository structure
+
+The repository is organized as follows:
