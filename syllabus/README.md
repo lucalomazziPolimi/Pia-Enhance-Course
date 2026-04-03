@@ -1,3 +1,12 @@
+## How to start
+
+1. Read this syllabus
+2. Go back to the main repository page
+3. Open the first lecture and download the slides
+4. Use the provided Colab links to run the notebooks
+
+No installation or Git knowledge is required.
+
 # Deep Learning–Driven Design under Dynamic Loads
 
 **Institution:** Politecnico di Milano / NTNU  
