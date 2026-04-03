@@ -8,9 +8,12 @@ The goal of these materials is to provide a uniform foundation in Deep Learning.
 
 ## Contents
 
-* **Module 1:** Introduction to Artificial Neural Networks *(Update with actual topic/file name)*
-* **Module 2:** Backpropagation and Optimization Algorithms
-* **Module 3:** Overview of Modern Architectures (CNNs, RNNs)
+* **Module 1:** What is learning
+* **Module 2:** Neural Networks
+* **Module 3:** Training
+* **Module 4:** Data for engineering
+* **Module 5:** Generalization
+* **Module 6:** Trust, uncertainty, and physics awareness
 
 > **Note to students:** Please ensure you have reviewed these concepts to facilitate a smoother transition into our practical coding sessions.
 
