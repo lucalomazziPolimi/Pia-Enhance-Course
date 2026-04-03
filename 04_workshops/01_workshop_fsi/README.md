@@ -10,6 +10,6 @@ This workshop covers environment setup, dataset preprocessing, surrogate model t
 ## How to proceed
 
 Please follow the detailed step-by-step instructions provided in:  
-👉 **[instructions.md](./instructions.md)**
+**[instructions.md](./instructions.md)**
 
 Make sure to read the instructions before opening the notebook in Colab.
