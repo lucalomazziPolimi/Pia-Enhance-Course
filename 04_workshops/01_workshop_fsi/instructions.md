@@ -3,6 +3,10 @@
 ## Goal
 Train and validate a surrogate model for an FSI dataset.
 
+## Reference
+
+The methodology implemented in this workshop is based on: Lomazzi L, Morin D, Cadini F, Manes A, Aune V. Deep learning-based analysis to identify fluid-structure interaction effects during the response of blast-loaded plates. International Journal of Protective Structures. 2024;15(4):722-752. doi:[10.1177/20414196231198259](https://journals.sagepub.com/doi/10.1177/20414196231198259).  
+
 ## What to do
 
 1. **Open the notebook in Colab**  
