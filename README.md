@@ -18,7 +18,7 @@
 > - **Session 3 – Basics of blast loading**  
 >   Tuesday, April 14  
 >   2:30pm – 4:00pm (CET)   
->   Link: [Zoom meeting][https://NTNU.zoom.us/j/97961761590?pwd=VD3MLWrbyD0UlG5BZfTRl9WePsqEEs.1]  
+>   Link: [Zoom meeting](https://NTNU.zoom.us/j/97961761590?pwd=VD3MLWrbyD0UlG5BZfTRl9WePsqEEs.1)
 >  
 > - **Session 4 – Basics of Deep Learning**  
 >   Thursday, April 16  
