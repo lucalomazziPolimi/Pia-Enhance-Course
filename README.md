@@ -8,7 +8,7 @@
 > - **Session 1 – Basics of dynamic behavior of metal materials**  
 >   Tuesday, April 7  
 >   2:30pm – 4:00pm (CET)  
->   Link: [TBD]  
+>   Link: [https://NTNU.zoom.us/j/93642088291?pwd=5omi76FVC4PWBB9KqgK29oAEizMpyC.1]  
 >  
 > - **Session 2 – Basics of FE simulations**  
 >   Thursday, April 9  
@@ -18,7 +18,7 @@
 > - **Session 3 – Basics of blast loading**  
 >   Tuesday, April 14  
 >   2:30pm – 4:00pm (CET)   
->   Link: [TBD]  
+>   Link: [https://NTNU.zoom.us/j/97961761590?pwd=VD3MLWrbyD0UlG5BZfTRl9WePsqEEs.1]  
 >  
 > - **Session 4 – Basics of Deep Learning**  
 >   Thursday, April 16  
