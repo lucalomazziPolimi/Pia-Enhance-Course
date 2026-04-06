@@ -22,7 +22,7 @@
 >  
 > - **Session 4 – Basics of Deep Learning**  
 >   Thursday, April 16  
->   2:30pm – 4:00pm (CET) 
+>   2:30pm – 4:00pm (CET)   
 >   Link: [Webex room](https://politecnicomilano.webex.com/meet/luca.lomazzi)
 >  
 > Please make sure to attend these sessions, as they introduce key concepts used during the course.
