@@ -6,7 +6,7 @@ Welcome to the FEM module materials. This directory contains the introductory sl
 
 These materials are designed to establish a solid mathematical and practical baseline for understanding how FEM is used to solve complex physical and engineering problems. Reviewing these concepts will ensure you are well-prepared for the core topics covered in this course.
 
-## Contents
+## Contents of file slides.pdf
 
 * **Module 1:** The Finite Element Method
 * **Module 2:** Elements and meshing
@@ -14,6 +14,11 @@ These materials are designed to establish a solid mathematical and practical bas
 * **Module 4:** Dynamics
 * **Module 5:** Verification, Validation, and reporting
 * **Module 6:** FEM -> dataset for ML
+
+## Contents of file April9.pdf
+
+* **Introduction to the GitHub repository and course workflow**
+* **Mesh convergence and Richardson extrapolation**
 
 > **Note to students:** Please review the slide deck before the first session.
 
