@@ -13,7 +13,7 @@
 > - **Session 2 – Basics of FE simulations**  
 >   Thursday, April 9  
 >   8:30am – 10:00am (CET)   
->   Link: [Recording]([https://politecnicomilano.webex.com/meet/luca.lomazzi](https://polimi365-my.sharepoint.com/:v:/g/personal/10421282_polimi_it/IQCXGbFk2ne-T7z1dwS1wjbpAbzX7Chuz47egzxIe1Z4OJc?e=5ytnzY)
+>   Link: [Recording](https://polimi365-my.sharepoint.com/:v:/g/personal/10421282_polimi_it/IQCXGbFk2ne-T7z1dwS1wjbpAbzX7Chuz47egzxIe1Z4OJc?e=5ytnzY)
 >  
 > - **Session 3 – Basics of blast loading**  
 >   Tuesday, April 14  
