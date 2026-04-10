@@ -6,7 +6,7 @@ Welcome to the Deep Learning module materials. This directory contains the intro
 
 The goal of these materials is to provide a uniform foundation in Deep Learning. By mastering these fundamental building blocks, you will be well-equipped to tackle the advanced, data-driven computational techniques presented later in the course.
 
-## Contents
+## Contents of slides.pdf
 
 * **Module 1:** What is learning
 * **Module 2:** Neural Networks
