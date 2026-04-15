@@ -6,7 +6,7 @@ Train and validate a network for inverse design of lattice metamaterials.
 ## What to do
 
 1. **Open the notebook in Colab**  
-   - [Open in Colab](https://colab.research.google.com/github/lucalomazziPolimi/Pia-Enhance-Course/blob/main/04_workshops/02_workshop_fsi/Inverse_Design_Metamaterials.ipynb)
+   - [Open in Colab](https://colab.research.google.com/github/lucalomazziPolimi/Pia-Enhance-Course/blob/main/04_workshops/02_workshop_metadesign/Inverse_Design_Metamaterials.ipynb)
 
 2. **Enable GPU (recommended)**  
    - In Colab, go to: `Runtime` → `Change runtime type`  
