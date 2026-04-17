@@ -21,7 +21,7 @@
 > - **Session 4 – Basics of Deep Learning**  
 >   Thursday, April 16  
 >   2:30pm – 4:00pm (CET)   
->   Link: [Recording](https://polimi365-my.sharepoint.com/:v:/g/personal/10421282_polimi_it/IQCIaVHWJTW0RbvdL0yb34GqAYStplwYHDgD5z6aYEclyWU?e=xqcD9i)
+>   Link: [Recording](https://polimi365-my.sharepoint.com/:v:/g/personal/10421282_polimi_it/IQBRplo2jO6BRJcmwKjvp3T2AZa_vjc1rPk9JilJIgxxVMc?e=DLbkcZ)
 
 Course materials for *Deep Learning–Driven Design under Dynamic Loads*.
 
