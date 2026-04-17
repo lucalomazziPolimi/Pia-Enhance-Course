@@ -1,6 +1,6 @@
 # Deep Learning–Driven Design under Dynamic Loads
 
-> ## ⚠️ Important – Online Pre-Course Lectures  
+> ## Online Pre-Course Lectures  
 >  
 > The first lectures took place **online before the Milan session**.  
 >  
@@ -22,8 +22,6 @@
 >   Thursday, April 16  
 >   2:30pm – 4:00pm (CET)   
 >   Link: [Recording](https://polimi365-my.sharepoint.com/:v:/g/personal/10421282_polimi_it/IQCIaVHWJTW0RbvdL0yb34GqAYStplwYHDgD5z6aYEclyWU?e=xqcD9i)
->  
-> Please make sure to attend these sessions, as they introduce key concepts used during the course.
 
 Course materials for *Deep Learning–Driven Design under Dynamic Loads*.
 
