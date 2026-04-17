@@ -2,13 +2,12 @@
 
 > ## ⚠️ Important – Online Pre-Course Lectures  
 >  
-> The first lectures will take place **online before the course starts**.  
+> The first lectures took place **online before the Milan session**.  
 >  
 > **Schedule and links:**  
 > - **Session 1 – Basics of dynamic behavior of metal materials**  
 >   Tuesday, April 7  
->   2:30pm – 4:00pm (CET)  
->   Link: [Zoom meeting](https://NTNU.zoom.us/j/93642088291?pwd=5omi76FVC4PWBB9KqgK29oAEizMpyC.1)
+>   2:30pm – 4:00pm (CET)
 >  
 > - **Session 2 – Basics of FE simulations**  
 >   Thursday, April 9  
@@ -17,13 +16,12 @@
 >  
 > - **Session 3 – Basics of blast loading**  
 >   Tuesday, April 14  
->   2:30pm – 4:00pm (CET)   
->   Link: [Zoom meeting](https://NTNU.zoom.us/j/97961761590?pwd=VD3MLWrbyD0UlG5BZfTRl9WePsqEEs.1)
+>   2:30pm – 4:00pm (CET)
 >  
 > - **Session 4 – Basics of Deep Learning**  
 >   Thursday, April 16  
 >   2:30pm – 4:00pm (CET)   
->   Link: [Webex room](https://politecnicomilano.webex.com/meet/luca.lomazzi)
+>   Link: [Recording](https://polimi365-my.sharepoint.com/:v:/g/personal/10421282_polimi_it/IQCIaVHWJTW0RbvdL0yb34GqAYStplwYHDgD5z6aYEclyWU?e=xqcD9i)
 >  
 > Please make sure to attend these sessions, as they introduce key concepts used during the course.
 
