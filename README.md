@@ -1,5 +1,7 @@
 # Deep Learning–Driven Design under Dynamic Loads
 
+> ⚠️ Meeting room for the streamed Milan session: [Join](https://politecnicomilano.webex.com/meet/luca.lomazzi) ⚠️
+
 > ## Online Pre-Course Lectures  
 >  
 > The first lectures took place **online before the Milan session**.  
