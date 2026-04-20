@@ -2,7 +2,7 @@
 
 ⚠️ Meeting room for the streamed Milan session: [Join](https://politecnicomilano.webex.com/meet/luca.lomazzi) ⚠️
 
-⚠️ Make sure check the file [Introduction.pdf]() ⚠️
+⚠️ Make sure check the file [Introduction.pdf](https://github.com/lucalomazziPolimi/Pia-Enhance-Course/blob/main/Introduction.pdf) ⚠️
 
 > ## Online Pre-Course Lectures  
 >  
