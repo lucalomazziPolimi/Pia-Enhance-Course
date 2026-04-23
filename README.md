@@ -2,28 +2,34 @@
 
 ⚠️ Meeting room for the streamed Milan session: [Join](https://politecnicomilano.webex.com/meet/luca.lomazzi) ⚠️
 
-> ## Online Pre-Course Lectures  
+> ## Recordings    
 >  
-> The first lectures took place **online before the Milan session**.  
->  
-> **Schedule and links:**  
-> - **Session 1 – Basics of dynamic behavior of metal materials**  
->   Tuesday, April 7  
->   2:30pm – 4:00pm (CET)
->  
-> - **Session 2 – Basics of FE simulations**  
->   Thursday, April 9  
->   8:30am – 10:00am (CET)   
+> - **Online Session – Basics of FE simulations**  
 >   Link: [Recording](https://polimi365-my.sharepoint.com/:v:/g/personal/10421282_polimi_it/IQCXGbFk2ne-T7z1dwS1wjbpAbzX7Chuz47egzxIe1Z4OJc?e=5ytnzY)
 >  
-> - **Session 3 – Basics of blast loading**  
->   Tuesday, April 14  
->   2:30pm – 4:00pm (CET)
->  
-> - **Session 4 – Basics of Deep Learning**  
->   Thursday, April 16  
->   2:30pm – 4:00pm (CET)   
+> - **Online Session – Basics of Deep Learning**   
 >   Link: [Recording](https://polimi365-my.sharepoint.com/:v:/g/personal/10421282_polimi_it/IQBRplo2jO6BRJcmwKjvp3T2AZa_vjc1rPk9JilJIgxxVMc?e=DLbkcZ)
+>   
+> - **Day 1 - Morning session - Dynamic loading**   
+>   Link: [Recording](https://polimi365-my.sharepoint.com/:v:/g/personal/10421282_polimi_it/IQAqSgXVQ7seT6SNg9GFy_k7AcKJdIPph0angOtOwicc0YY?e=nQvfaw)
+>   
+> - **Day 1 - Afternoon session - FSI**   
+>   Link: [Recording](https://polimi365-my.sharepoint.com/:v:/g/personal/10421282_polimi_it/IQDXI1K07ICITLDSAkbKg2saAbeM0eVrHFq2t-SLNOWmZnw?e=THIlK3)
+>   
+> - **Day 2 - Morning session - Deep learning**   
+>   Link: [Recording](https://polimi365-my.sharepoint.com/:v:/g/personal/10421282_polimi_it/IQCsDlx2F5FQRq0FCR94Jk0bAQihMb8sSWzivKYsNmL3HXA?e=oKEXeD)
+>   
+> - **Day 2 - Afternoon session - Metamaterials**   
+>   Link: [Recording](https://polimi365-my.sharepoint.com/:v:/g/personal/10421282_polimi_it/IQBJlHwR-cpgTr31Bmv0jnJ5AbW05iKDBKb_hJ7gEtoTPNg?e=BvuWHD)
+>   
+> - **Day 3 - Morning session - Workshop on inverse design of metamaterials**   
+>   Link: [Recording](https://polimi365-my.sharepoint.com/:v:/g/personal/10421282_polimi_it/IQAE8X5gL52ESqoRfXT0lumyAWuHBdsVUi96tWlaTR-1fcw?e=pIqL2f)
+>   
+> - **Day 3 - Afternoon session - Workshop on DL for FSI**   
+>   Link: [Recording](https://polimi365-my.sharepoint.com/:v:/g/personal/10421282_polimi_it/IQCahoDwfpDHSa77RDQNAlLZAQpdCsBpfxSZS2qSQe_GsjI?e=DaNiJr)
+>   
+> - **Day 4 - Morning session - Challenge introduction**   
+>   Link: [Recording]()
 
 Course materials for *Deep Learning–Driven Design under Dynamic Loads*.
 
