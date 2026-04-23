@@ -1,6 +1,7 @@
 # Deep Learning–Driven Design under Dynamic Loads
 
 ⚠️ Meeting room for the streamed Milan session: [Join](https://politecnicomilano.webex.com/meet/luca.lomazzi) ⚠️
+⚠️ Wrap-up and Trondheim session introduction: [slides](https://github.com/lucalomazziPolimi/Pia-Enhance-Course/blob/main/wrap-up.pdf) ⚠️
 
 > ## Recordings    
 >  
