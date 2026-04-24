@@ -1,0 +1,12 @@
+FILE,Drop height [mm],Read impact speed [m/s],Peak force [N],Energy absorbed by the specimen [J],Dart potential energy [J],Energy released by the specimen [J],Kinetic energy transferred to the specimen [J],Dart kinetic energy [J],Model
+TPMS_PLA_1,500,2.877,8475,17.22,28.45,7.06,24,24,n.a.
+TPMS_PLA_2,1000,4.127,5435,42.22,56.9,8.03,50,49.39,n.a.
+TPMS_PLA_3,1500,5.039,7054,67.14,85.35,7.53,75,73.65,n.a.
+Lattice_PLA_1,500,2.888,1968,21.8,28.45,3.64,25,24.19,n.a.
+Lattice_PLA_2,1000,4.115,21994,43.19,56.9,6.99,50,49.12,n.a.
+Voronoi_PLA_1,500,2.849,5027,21.38,28.45,2.74,24,23.54,n.a.
+Voronoi_PLA_2,1000,4.116,28349,48.24,56.9,1.77,50,49.12,n.a.
+Lattice_TPU_1,500,2.894,10798,18.03,28.45,8.18,26,24.28,n.a.
+Lattice_TPU_2,500,2.894,12680,17.77,28.45,8.45,26,24.28,n.a.
+TPMS_TPU_1,500,2.905,12210,21.19,28.45,5.26,26,24.47,n.a.
+TPMS_TPU_2,1000,4.185,38058,38.67,56.9,14.14,53,50.8,n.a.
