@@ -31,7 +31,7 @@
 >   Link: [Recording](https://polimi365-my.sharepoint.com/:v:/g/personal/10421282_polimi_it/IQCahoDwfpDHSa77RDQNAlLZAQpdCsBpfxSZS2qSQe_GsjI?e=DaNiJr)
 >   
 > - **Day 4 - Morning session - Challenge introduction**   
->   Link: [Recording]()
+>   Link: [Recording](https://polimi365-my.sharepoint.com/:v:/g/personal/10421282_polimi_it/IQCuSsauhtiPTpUc-l7efw_dAcVaW0Vz9n9JBUI36MtbwB8?e=tQbpjp)
 
 Course materials for *Deep Learning–Driven Design under Dynamic Loads*.
 
