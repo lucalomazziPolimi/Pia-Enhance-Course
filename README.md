@@ -3,8 +3,6 @@
 ⚠️ **Update – Evaluation Criteria Revised** ⚠️  
 The rules for the challenge have been updated to better reflect how the designs will be evaluated (including weight and mechanical response under impact). Please make sure to review the updated [rules](./05_challenge/rules.md).
 
-⚠️ Meeting room for the streamed Milan session: [Join](https://politecnicomilano.webex.com/meet/luca.lomazzi) ⚠️
-
 ⚠️ Wrap-up and Trondheim session introduction: [slides](https://github.com/lucalomazziPolimi/Pia-Enhance-Course/blob/main/wrap-up.pdf) ⚠️
 
 > ## Recordings    
