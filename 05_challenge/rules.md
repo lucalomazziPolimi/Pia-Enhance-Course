@@ -23,8 +23,22 @@ Design a **50×50×50 mm** lattice that can absorb the impact of a **6 kg weight
 *   **Trondheim Session:** Project presentations and winner announcement.
 
 ## Evaluation & Winning Criteria
-*   **Primary Criterion:** The winning design is the **lightest lattice** that successfully survives the physical impact test without failure.
-*   **Tiebreakers:**
-    *   Energy absorption efficiency.
-    *   Quality of the design rationale in the report.
-    *   Clarity of the Trondheim presentation.
+
+The evaluation will be based on a combination of **weight** and **mechanical performance under impact**.
+
+* **Weight score:**  
+  Each lattice will be weighed. Lighter designs will receive a higher score.
+
+* **Mechanical response score:**  
+  During the drop tower test, the force–displacement response will be recorded and used to derive the stress–strain curve.  
+  The highest score will be assigned to lattices that:
+  - effectively absorb the impact energy, and  
+  - do **not** enter the densification regime.
+
+* **Final ranking:**  
+  The final score will be obtained by combining the weight score and the mechanical response score. The design with the highest total score will be declared the winner.
+
+* **Additional considerations (tie-breakers):**
+  - Energy absorption efficiency.
+  - Quality of the design rationale in the report.
+  - Clarity of the Trondheim presentation.
